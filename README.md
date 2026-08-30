@@ -19,8 +19,8 @@ Repositorio para practicar conceptos básicos de JavaScript .
 - Volumen de una esfera
 - Contar Registros procesados
 - validación de Contraseñas
--Control de intentos para iniciar sesión 
--Ejercicio de POO(Plataforma de delevery)
+- Control de intentos para iniciar sesión 
+- Ejercicio de POO(Plataforma de delevery)
 
 Calcular el promedio de un arreglo de calificaciones y determinar cuáles son aprobatorias.
 
