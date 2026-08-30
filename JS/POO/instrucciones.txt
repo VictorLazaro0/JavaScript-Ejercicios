@@ -1,0 +1,27 @@
+Actividad: Completar el ejercicio de POO que iniciamos ayer.
+
+1. Qué falta?
+
+- Clase Usuario
+- Clase UsuarioPro
+- Implementar el método calcularTotal() para cada tipo de usuario.
+
+2. Consideraciones:
+
+- Investiga que es la herencia.
+- Investiga como una subclase debe declarar su constructor.
+- Investiga como declarar un método en una superclase para que lo puedan
+sobreescribir otras subclases de la misma.
+
+Extra:
+
+- Crea una clase Main donde únicamente ejecutes y pruebes tu aplicación. Es decir, no tiene propiedades ni constructor, solo un método que ejecuta el programa.
+
+
+
+plataforma de livery recompensa usuarios pro con un 5 % de descuento
+crear dos subcalsse usuarioy UsuarioPro definir propiedades y metodos
+especificos
+las ordenes mayores a 299 para usuarios regulare4s y 199 para usuarios pro incluyen costo de envio 
+
+hereda de la clase Persona el metodo calcular total 
