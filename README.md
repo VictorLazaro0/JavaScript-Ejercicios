@@ -11,6 +11,7 @@ Repositorio para practicar conceptos básicos de JavaScript .
 - Ciclo while
 - Arreglos
 - Funciones
+- POO
 
 
 ## Ejercicios
@@ -19,6 +20,7 @@ Repositorio para practicar conceptos básicos de JavaScript .
 - Contar Registros procesados
 - validación de Contraseñas
 -Control de intentos para iniciar sesión 
+-Ejercicio de POO(Plataforma de delevery)
 
 Calcular el promedio de un arreglo de calificaciones y determinar cuáles son aprobatorias.
 
