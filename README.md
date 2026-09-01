@@ -21,6 +21,7 @@ Repositorio para practicar conceptos básicos de JavaScript .
 - validación de Contraseñas
 - Control de intentos para iniciar sesión 
 - Ejercicio de POO(Plataforma de delevery)
+- Módulos - Ejercicio práctico
 
 Calcular el promedio de un arreglo de calificaciones y determinar cuáles son aprobatorias.
 
